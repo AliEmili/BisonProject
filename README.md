@@ -1,6 +1,6 @@
 # BisonProject
 A compiler tool written in bison with the help of flex to calculate
-in these project you can find an exe file called 'exp-tab'
+in this project you can find an exe file called 'exp-tab'
 <br/>
 it's simply a calculator
 <br/>
